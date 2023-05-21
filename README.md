@@ -5,4 +5,4 @@
 - 📫 How to reach me : 
      Email: trixtipsandfix@gmail.com
 
-<img src="https://github-readme-stats.vercel.app/api?username=zluvsand&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=trixtipsfix&show_icons=true"/>
