@@ -12,6 +12,7 @@
 - Django (Web Framework)
 - React (Front-end JavaScript Library)
 - Node.js (JavaScript Runtime)
+- MySQL, Sqlite
 - Git and GitHub
 - Docker
 - AWS, DigitalOcean
