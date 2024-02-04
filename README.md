@@ -1,9 +1,40 @@
+# Mirza Areeb Baig
 
-- 📫 How to reach me : 
-     Email: trixtipsandfix@gmail.com
+👋 Hello, I'm Areeb! Welcome to my GitHub profile. I'm a skilled developer with experience in Python, C/C++, JS, Assembly (x32) and expertise in frameworks like Flask, Django, React, Node.js. I have a proper hold on multiple tools and technologies. I'm a quick learner and collaborate closely with clients to create efficient, scalable, and user-friendly solutions that solve real-world problems. Let's work together to bring your ideas to life!
 
+## 🔧 Technologies & Tools
 
-<code><img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /></code><code><img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /></code><code><img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" /></code>
+- Python
+- C/C++
+- JS, HTML, CSS
+- Assembly
+- Flask (Web Framework)
+- Django (Web Framework)
+- React (Front-end JavaScript Library)
+- Node.js (JavaScript Runtime)
+- Git and GitHub
+- Docker
+- AWS, DigitalOcean
+- Windows, Linux, Ubuntu
+- Selenium, BeatifulSoap
 
+Feel free to explore my open source work and provide feedback!
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=trixtipsfix"/>
+## 📫 Contact
+
+- LinkedIn: <a href="https://www.linkedin.com/in/whoamirza">@whoamirza</a>
+- Twitter: <a href="https://twitter.com/trixtipsfix">@trixtipsfix</a>
+- Email: mirzaareebh968@gmail.com
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=trixtipsfix&show_icons=true&theme=radical)
+
+## 🤝 Let's Connect!
+
+I'm always open to collaborating on new projects or just having a chat. Feel free to reach out to me!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/whoamirza/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/trixtipsfix)
+
+Thanks for visiting! 😊
