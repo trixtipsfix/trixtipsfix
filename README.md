@@ -21,12 +21,6 @@
 
 Feel free to explore my open source work and provide feedback!
 
-## 📫 Contact
-
-- LinkedIn: <a href="https://www.linkedin.com/in/whoamirza">@whoamirza</a>
-- Twitter: <a href="https://twitter.com/trixtipsfix">@trixtipsfix</a>
-- Email: mirzaareebh968@gmail.com
-
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=trixtipsfix&show_icons=true&theme=radical)
