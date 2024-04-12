@@ -7,6 +7,7 @@
 - Python
 - C/C++
 - JS, HTML, CSS
+- Golang
 - Assembly
 - Flask (Web Framework)
 - Django (Web Framework)
