@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello, I'm Areeb! Welcome to my GitHub profile. I'm a skilled developer with experience in Python, C/C++, JS, Assembly (x32) and expertise in frameworks like Flask, Django, React, Node.js. I have a proper hold on multiple tools and technologies. I'm a quick learner and collaborate closely with clients to create efficient, scalable, and user-friendly solutions that solve real-world problems. Let's work together to bring your ideas to life!
+👋 Hello, I'm Areeb! An experienced software engineer with a strong background in full-stack development, AI innovation and system design, with additional expertise in cybersecurity. I've worked across backend systems, frontend frameworks, and cloud infrastructure to help build secure, scalable platforms. In recent roles, I've contributed to developer tools, AI agents, automated workflows, and LLM-powered applications, with a focus on reliability, data integrity, and thoughtful design. I enjoy building systems that solve real-world problems and simplify complexity.
 
 
 ## 🌐 Socials:
