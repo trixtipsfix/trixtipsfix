@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello, I'm Areeb! An experienced software engineer with a strong background in full-stack development, AI innovation and system design, with additional expertise in cybersecurity. I've worked across backend systems, frontend frameworks, and cloud infrastructure to help build secure, scalable platforms. In recent roles, I've contributed to developer tools, AI agents, automated workflows, and LLM-powered applications, with a focus on reliability, data integrity, and thoughtful design. I enjoy building systems that solve real-world problems and simplify complexity.
+👋 Hello, I'm Areeb! An experienced software engineer with a strong background in full-stack development and system design, with additional expertise in agentic AI and cybersecurity. I’ve worked across backend systems, frontend frameworks, and cloud infrastructure to help build secure, scalable platforms. In recent roles, I’ve contributed to developer tools, AI agents, automated workflows, and LLM-powered applications, with a focus on reliability, data integrity, and thoughtful design. I enjoy building systems that solve real-world problems and simplify complexity.
 
 
 ## 🌐 Socials:
