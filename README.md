@@ -1,20 +1,283 @@
-# 💫 About Me:
-👋 Hello, I'm Areeb! An experienced software engineer with a strong background in full-stack development and system design, with additional expertise in agentic AI and cybersecurity. I’ve worked across backend systems, frontend frameworks, and cloud infrastructure to help build secure, scalable platforms. In recent roles, I’ve contributed to developer tools, AI agents, automated workflows, and LLM-powered applications, with a focus on reliability, data integrity, and thoughtful design. I enjoy building systems that solve real-world problems and simplify complexity.
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--  MIRZA AREEB BAIG  ·  github.com/trixtipsfix                          -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/whoamirza) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/whoamirza)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,35:0F2027,70:203A43,100:00F5D4&text=MIRZA%20AREEB%20BAIG&fontColor=E6FFFA&fontSize=52&fontAlignY=36&desc=Full-Stack%20Engineer%20%E2%80%A2%20Agentic%20AI%20%E2%80%A2%20Offensive%20Security&descAlignY=56&descSize=16&animation=fadeIn" />
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=trixtipsfix&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=trixtipsfix&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=trixtipsfix&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<a href="https://github.com/trixtipsfix">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00F5D4&center=true&vCenter=true&width=820&lines=%3E+Building+secure%2C+scalable+systems+at+machine+speed.;%3E+Autonomous+AI+agents+that+hunt+real+vulnerabilities.;%3E+Django+%7C+Next.js+%7C+Go+%7C+Neo4j+%7C+LLMs+%7C+MCP+Servers.;%3E+eCPPTv2+%C2%B7+CTF+Winner+%C2%B7+Black+Hat+MEA+Finalist+x3" alt="Typing SVG" />
+</a>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+<br/>
 
----
-[![](https://visitcount.itsvg.in/api?id=trixtipsfix&icon=7&color=1)](https://visitcount.itsvg.in)
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Ftrixtipsfix&query=%24.public_repos&style=for-the-badge&label=PUBLIC%20REPOS&labelColor=0D1117&color=00F5D4" />
+<img src="https://komarev.com/ghpvc/?username=trixtipsfix&style=for-the-badge&label=VISITORS&color=FF2E97" />
+<img src="https://img.shields.io/github/followers/trixtipsfix?style=for-the-badge&label=FOLLOWERS&labelColor=0D1117&color=7B61FF" />
 
+</div>
+
+<img width="100%" src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" />
+
+<!-- ═══════════════════════════════════ SYSTEM BOOT ═══════════════════════ -->
+
+## `01` &nbsp;▍ SYSTEM ONLINE
+
+```console
+areeb@blackbox:~$ whoami --verbose
+
+┌─[ IDENTITY ]───────────────────────────────────────────────────────────┐
+│  name        : Mirza Areeb Baig                                        │
+│  role        : Senior Full-Stack Engineer  @ Nua  (Riyadh, KSA)        │
+│  parallel    : AI & Systems Engineer       @ MachineSens IoT (Dubai)   │
+│  origin      : Islamabad, Pakistan  ·  Remote-native                   │
+│  degree      : BS Cyber Security — Air University  (GPA 3.61 / 4.00)   │
+│  cert        : eCPPTv2 — Certified Professional Penetration Tester     │
+└────────────────────────────────────────────────────────────────────────┘
+
+┌─[ CORE DIRECTIVES ]────────────────────────────────────────────────────┐
+│  ▸ architect secure, scalable platforms end-to-end                     │
+│  ▸ ship autonomous AI agents that reason, decide and act               │
+│  ▸ break systems before attackers do — then harden them                │
+│  ▸ turn complexity into something a human can actually read            │
+└────────────────────────────────────────────────────────────────────────┘
+
+areeb@blackbox:~$ status
+▸ 100+ delivered projects  ·  ★★★★★ rating  ·  4 countries  ·  0 downtime tolerated
+```
+
+<img width="100%" src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" />
+
+<!-- ═══════════════════════════════════ ARSENAL ══════════════════════════ -->
+
+## `02` &nbsp;▍ TECH ARSENAL
+
+<div align="center">
+
+#### ⟨ LANGUAGES ⟩
+
+<img src="https://skillicons.dev/icons?i=python,go,c,cpp,js,ts,rust,php,bash&theme=dark&perline=9" />
+
+#### ⟨ FRAMEWORKS & FRONTEND ⟩
+
+<img src="https://skillicons.dev/icons?i=django,flask,nextjs,react,nodejs,express,tailwind,html,css&theme=dark&perline=9" />
+
+#### ⟨ DATA & IDENTITY ⟩
+
+<img src="https://skillicons.dev/icons?i=neo4j,postgres,sqlite,mongodb,redis,firebase,graphql&theme=dark&perline=9" />
+
+#### ⟨ CLOUD, DEVOPS & INFRA ⟩
+
+<img src="https://skillicons.dev/icons?i=docker,aws,gcp,azure,nginx,githubactions,cloudflare,vercel,linux&theme=dark&perline=9" />
+
+#### ⟨ AI · AUTOMATION · OFFENSIVE SECURITY ⟩
+
+<p>
+<img src="https://img.shields.io/badge/Agentic_AI-0D1117?style=for-the-badge&logo=probot&logoColor=00F5D4" />
+<img src="https://img.shields.io/badge/MCP_Servers-0D1117?style=for-the-badge&logo=anthropic&logoColor=00F5D4" />
+<img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=langchain&logoColor=00F5D4" />
+<img src="https://img.shields.io/badge/Ollama-0D1117?style=for-the-badge&logo=ollama&logoColor=00F5D4" />
+<img src="https://img.shields.io/badge/LLM_Integration-0D1117?style=for-the-badge&logo=openai&logoColor=00F5D4" />
+<br/>
+<img src="https://img.shields.io/badge/Selenium-0D1117?style=for-the-badge&logo=selenium&logoColor=FF2E97" />
+<img src="https://img.shields.io/badge/BeautifulSoup-0D1117?style=for-the-badge&logo=python&logoColor=FF2E97" />
+<img src="https://img.shields.io/badge/Keycloak-0D1117?style=for-the-badge&logo=keycloak&logoColor=FF2E97" />
+<img src="https://img.shields.io/badge/Web_Scraping-0D1117?style=for-the-badge&logo=scrapy&logoColor=FF2E97" />
+<br/>
+<img src="https://img.shields.io/badge/Penetration_Testing-0D1117?style=for-the-badge&logo=kalilinux&logoColor=7B61FF" />
+<img src="https://img.shields.io/badge/OWASP_Top_10-0D1117?style=for-the-badge&logo=owasp&logoColor=7B61FF" />
+<img src="https://img.shields.io/badge/Malware_Analysis-0D1117?style=for-the-badge&logo=virustotal&logoColor=7B61FF" />
+<img src="https://img.shields.io/badge/Threat_Modeling-0D1117?style=for-the-badge&logo=hackthebox&logoColor=7B61FF" />
+<img src="https://img.shields.io/badge/Secure_Code_Review-0D1117?style=for-the-badge&logo=snyk&logoColor=7B61FF" />
+<img src="https://img.shields.io/badge/Parrot_OS-0D1117?style=for-the-badge&logo=parrotsecurity&logoColor=7B61FF" />
+</p>
+
+</div>
+
+<img width="100%" src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" />
+
+<!-- ═══════════════════════════════════ PROJECTS ═════════════════════════ -->
+
+## `03` &nbsp;▍ FLAGSHIP BUILDS
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Shax
+**`Autonomous AI Penetration Tester`**
+
+An end-to-end offensive-security agent that **discovers, validates and prioritizes real vulnerabilities** through safe exploitation — expert-level pentesting at machine speed.
+
+`Agentic AI` `LLMs` `Python` `Exploitation`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧿 Paradox AI
+**`Online Misinformation Detection Platform`**
+
+Multimodal agent that verifies credibility across **text, images, audio and video** — NLP, deepfake detection and content analysis in real time.
+
+`MCP` `LLMs` `ML` `Python` `APIs`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧬 DARTS
+**`Dynamic Analysis Real-Time Sandbox`**
+
+Instrumented sandbox for **dynamic analysis of Windows malware** using the Unicorn Engine, live instrumentation and memory inspection.
+
+`C/C++` `Unicorn` `ML` `Python`
+
+</td>
+<td width="50%" valign="top">
+
+### 📄 MAD
+**`Macro Analysis & Detection Tool`**
+
+AI-powered static + dynamic engine that **detects and classifies malicious Office macros** for threat hunting and incident response.
+
+`AI` `ML` `VBA` `Python`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎣 PhishIntel
+**`Phishing Email Detection`**
+
+ML pipeline that flags phishing by dissecting **metadata, text patterns and embedded URLs** before a human ever clicks.
+
+`ML` `LLMs` `Python`
+
+</td>
+<td width="50%" valign="top">
+
+### 🚩 CTF Platform
+**`Capture-the-Flag Infrastructure`**
+
+Full-featured CTF platform with **isolated challenge hosting**, team management, scoring and real-time monitoring.
+
+`Flask` `JavaScript` `Docker`
+
+</td>
+</tr>
+</table>
+
+<img width="100%" src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" />
+
+<!-- ═══════════════════════════════════ TIMELINE ═════════════════════════ -->
+
+## `04` &nbsp;▍ EXECUTION TIMELINE
+
+```mermaid
+timeline
+    title Engineering Trajectory
+    2021 : Freelance Engineer — Fiverr : 100+ projects, 5-star rating
+    2022 : Security Engineer — Ministry of Defence : Vulnerability research & custom tooling
+    2024 : Systems Engineer — Zortik Technologies : Go / C++ / LSPs / LLM developer tools
+    2025 : AI & Systems Engineer — MachineSens IoT : Edge AI pipelines & autonomous agents
+    2025 : Senior Full-Stack Engineer — Nua : Secure platforms, Neo4j graph intelligence
+```
+
+<details>
+<summary><b>▶ &nbsp;EXPAND FULL DEPLOYMENT LOG</b></summary>
+
+<br/>
+
+| Period | Role | Organization | Mission |
+|:---|:---|:---|:---|
+| `09/2025 → now` | **Senior Full-Stack Software Engineer** | Nua — Riyadh, KSA | Secure, scalable apps in Django / Next.js / Node.js · Neo4j graph analytics · REST + GraphQL for real-time cybersecurity intelligence · CI/CD, Docker, testing · security dashboards |
+| `02/2025 → now` | **AI & Systems Engineer** | MachineSens IoT — Dubai, UAE | End-to-end AI pipelines for IoT · autonomous decision-making agents for industrial automation · LLM-driven anomaly detection & NL sensor querying · edge + cloud inference optimization |
+| `02/2024 → 02/2025` | **Systems Engineer** | Zortik Technologies — Remote, Canada | Secure systems in Go, Python, C/C++, TypeScript · LSPs, bootstrapping frameworks, LLM-integrated developer tools · Docker & AWS automation |
+| `02/2022 → 02/2024` | **Security Engineer** | Ministry of Defence — Rawalpindi, PK | In-house vulnerability discovery & reporting automation · web + internal pentests · R&D in application and infrastructure security |
+| `2021 → now` | **Freelance Engineer** | Fiverr — Remote | 100+ five-star projects across web, automation and cybersecurity · pentesting & scraping tooling · AWS + Docker deployments |
+
+</details>
+
+<img width="100%" src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" />
+
+<!-- ═══════════════════════════════════ TROPHIES ═════════════════════════ -->
+
+## `05` &nbsp;▍ TROPHY VAULT
+
+<div align="center">
+
+| 🏆 | Achievement | Arena |
+|:--:|:---|:---|
+| 🥇 | **Winner — AirTech'24 CTF Competition** | Air University |
+| 🌍 | **Finalist — Black Hat MEA 2023 · 2024 · 2025** | SAFCSP, Saudi Arabia |
+| 🥈 | **1st Runner-Up — SOFTEC'24 CTF** | FAST NUCES, Lahore |
+| 🥉 | **2nd Runner-Up — Digital Pakistan Cybersecurity Hackathon (Finals) 2023** | Ministry of IT |
+| 🥈 | **1st Runner-Up — Air University CTF 2023** | Air University |
+| 🎓 | **Best Performer of the Batch** · Merit Scholarship | Air University (BS Fall-21) |
+| 💻 | **Prime Minister's Youth Laptop Award 2023** | Government of Pakistan |
+
+</div>
+
+<img width="100%" src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" />
+
+<!-- ═══════════════════════════════════ TELEMETRY ════════════════════════ -->
+
+## `06` &nbsp;▍ TELEMETRY
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=trixtipsfix&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00F5D4&icon_color=FF2E97&text_color=C9D1D9&ring_color=00F5D4" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trixtipsfix&layout=compact&hide_border=true&langs_count=10&bg_color=0D1117&title_color=00F5D4&text_color=C9D1D9" />
+
+<br/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=trixtipsfix&hide_border=true&background=0D1117&stroke=00F5D4&ring=FF2E97&fire=FF2E97&currStreakLabel=00F5D4&sideLabels=00F5D4&dates=8B949E&sideNums=C9D1D9&currStreakNum=C9D1D9" />
+
+<br/><br/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=trixtipsfix&bg_color=0D1117&color=00F5D4&line=FF2E97&point=FFFFFF&area=true&area_color=0D1117&hide_border=true&custom_title=Contribution%20Signal" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=trixtipsfix&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+
+</div>
+
+<img width="100%" src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" />
+
+<!-- ═══════════════════════════════════ CONNECT ══════════════════════════ -->
+
+## `07` &nbsp;▍ ESTABLISH CONNECTION
+
+<div align="center">
+
+```console
+areeb@blackbox:~$ ./connect.sh --open-to "high-impact engineering + security work"
+[+] handshake complete — channels below are live
+```
+
+<a href="mailto:whoamirza@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-whoamirza@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=00F5D4" />
+</a>
+<a href="https://www.linkedin.com/in/whoamirza">
+  <img src="https://img.shields.io/badge/LINKEDIN-whoamirza-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F5D4" />
+</a>
+<a href="https://github.com/trixtipsfix">
+  <img src="https://img.shields.io/badge/GITHUB-trixtipsfix-0D1117?style=for-the-badge&logo=github&logoColor=00F5D4" />
+</a>
+<a href="https://www.fiverr.com/">
+  <img src="https://img.shields.io/badge/FIVERR-100%2B%20projects-0D1117?style=for-the-badge&logo=fiverr&logoColor=00F5D4" />
+</a>
+
+<br/><br/>
+
+> ### ⟨ `"I build systems that solve real problems — and simplify complexity."` ⟩
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:00F5D4,30:203A43,65:0F2027,100:0D1117&reversal=true" />
+
+</div>
